@@ -2,6 +2,8 @@
 
 ## Study case
 
+> This study case could be long and not achieved at the end of the interview. What we expect is to have enough material to evaluate the candidate skills even if the case is not completed
+
 * Fork this project
 * Write a simple CLI in Go / Python
   * It should implement a workflow in sync command with the following steps:
